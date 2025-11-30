@@ -1,6 +1,6 @@
 # AI-SDev-Week7
-## AI Ethics Assignment
-####Description      Assignment: AI Ethics
+## AI Ethics 
+Description   Assignment: AI Ethics
 Theme: "Designing Responsible and Fair AI Systems" 🌍⚖️
 
 ### Objective & Guidelnes
@@ -9,6 +9,7 @@ This assignment evaluates the understanding of AI ethics principles, ability to
 ### Tools & Resources
 Libraries: AI Fairness 360, Pandas, Matplotlib.
 Datasets: COMPAS (provided), ProPublica’s Analysis. https://www.propublica.org/article/how-we-analyzed-the-compas-recidivism-algorithm
+
 Frameworks: EU Ethics Guidelines for Trustworthy AI. https://digital-strategy.ec.europa.eu/en/library/ethics-guidelines-trustworthy-ai
 
 ### Why This Matters
